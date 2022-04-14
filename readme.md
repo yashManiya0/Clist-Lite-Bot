@@ -1,1 +1,0 @@
-This discord bot helps you to do Competitive Programming efficiently. Can list you the upcoming contests on various platforms, let you stalk other users on CodeForces, etc.
